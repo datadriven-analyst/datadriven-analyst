@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @datadriven-analyst
+- 👀 I’m interested in data engineering
+- 🌱 I’m currently learning machine learning
